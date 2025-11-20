@@ -1,4 +1,4 @@
-👋 Hello! I'm Atis
+ Hello! I'm Atis
 
 **Web developer and graphic designer**
 
@@ -13,14 +13,14 @@ I can help with:
 
 
 
-## 🔗 Contact me
+##  Contact me
  **Behance:** [atisakimovs](https://www.behance.net/atisakimovs)  
  **Email:** atis.akimovs@gmail.com  
  **Telegram:** @LopAtikkkk  
 
 
 
-## 📁 My Projects
+##  My Projects
 
 ### 🔹 [portfolio](https://github.com/atis2/portfolio)  
 My main project portfolio with design and development works.
@@ -33,7 +33,7 @@ A Python bot project.
 
 
 
-## 🛠 Skills
+##  Skills
 
 ### **Programming**
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
