@@ -1,4 +1,4 @@
- Hello! I'm Atis
+ Hello! I'm Atis.
 
 **Web developer and graphic designer**
 
