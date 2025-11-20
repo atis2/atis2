@@ -14,7 +14,7 @@ Web developer and graphic designe
       
 My projects  
       **portfolio** — my project portfolio  
-      **Outlast.github.io** — first personal website / blog  
+      **Outlast.github.io** — first personal website 
       **pokemon** — Python bot project  
 
 
