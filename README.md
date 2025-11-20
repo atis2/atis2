@@ -3,7 +3,7 @@
 Web developer and graphic designe
 
  Working on: landing pages, UI/UX, Python bots  
- I am learning: modern JavaScript and frameworks  
+ I am learning now: modern JavaScript and blender  
  I can help with: website development, design, automation with bots
  
  Contact me:
